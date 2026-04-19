@@ -1,0 +1,15 @@
+total 76
+drwxr-xr-x  2 yuliana_corrales yuliana_corrales  4096 Apr 19 17:58 .
+drwxr-x--- 11 yuliana_corrales yuliana_corrales  4096 Apr 19 14:48 ..
+-rw-r--r--  1 yuliana_corrales yuliana_corrales     0 Apr 19 14:19 a
+-rw-r--r--  1 yuliana_corrales yuliana_corrales    12 Apr 19 15:56 batch.txt
+-rw-r--r--  1 yuliana_corrales yuliana_corrales    57 Apr 19 16:23 error.txt
+-rw-r--r--  1 yuliana_corrales yuliana_corrales     0 Apr 19 17:28 exit
+-rw-r--r--  1 yuliana_corrales yuliana_corrales   100 Apr 19 15:17 ls
+-rw-r--r--  1 yuliana_corrales yuliana_corrales   100 Apr 19 15:31 new_file_xyz.txt
+-rw-r--r--  1 yuliana_corrales yuliana_corrales   100 Apr 19 15:32 output.txt
+-rw-r--r--  1 yuliana_corrales yuliana_corrales    22 Apr 19 15:06 pwd
+-rw-r--r--  1 yuliana_corrales yuliana_corrales     0 Apr 19 18:04 salida.txt
+-rw-r--r--  1 yuliana_corrales yuliana_corrales    12 Apr 19 14:57 test_batch.txt
+-rwxr-xr-x  1 yuliana_corrales yuliana_corrales 21888 Apr 19 17:58 wish
+-rw-r--r--  1 yuliana_corrales yuliana_corrales 14323 Apr 19 17:58 wish.c
