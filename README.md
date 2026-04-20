@@ -119,7 +119,7 @@
 
 | Ítem | Descripción |
 |------|-------------|
-| Enlace | 🔗 [Link al video de sustentación (10 minutos)](https://youtu.be/[ID_DEL_VIDEO]) |
+| Enlace | 🔗 [Link al video de sustentación (10 minutos)](https://youtu.be/oOIeqPNVT8o) |
 | Contenido | Compilación, modo interactivo, built-ins (`exit`, `cd`, `path`, `route`), redirección, comandos paralelos, modo batch, manejo de errores, EOF |
 
 ---
