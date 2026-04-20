@@ -9,7 +9,7 @@
 | Nombre Completo | Correo Electrónico | Número de Documento |
 |----------------|-------------------|---------------------|
 | Yuliana Corrales Castaño | yuliana.corralesc@udea.edu | 39193015 |
-| Hellen Rubio | hellen.rubio@udea.edu | [Documento 2] |
+| Hellen Jakeline Rubio Casas | hellen.rubio@udea.edu | 1001686406 |
 
 ---
 
