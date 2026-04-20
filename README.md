@@ -132,7 +132,7 @@ Todo el código fue escrito, revisado y comprendido por los integrantes. La IA s
 
 ---
 
-## structura del Repositorio
+## Estructura del Repositorio
 
 | Archivo/Directorio | Descripción |
 |--------------------|-------------|
@@ -142,7 +142,7 @@ Todo el código fue escrito, revisado y comprendido por los integrantes. La IA s
 
 ---
 
-## 🛠️ Compilación y Ejecución
+## Compilación y Ejecución
 
 | Acción | Comando |
 |--------|---------|
