@@ -1,5 +1,0 @@
-ls -la
-pwd
-echo "Ejecutando en modo batch"
-ls -la /tmp
-exit
