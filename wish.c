@@ -240,8 +240,8 @@ int builtin_path(char **args, int arg_count) {
 int execute_builtin(char **args, int arg_count) {
     if (arg_count == 0) return 0;
 
-    if (strcmp(args[0], "exit") == 0) {
-        return builtin_exit(args, arg_count);
+    if (strcmp(args[0], "path") == 0 || strcmp(args[0], "route") == 0) {
+    return builtin_path(args, arg_count);
     }
 
     if (strcmp(args[0], "cd") == 0) {
